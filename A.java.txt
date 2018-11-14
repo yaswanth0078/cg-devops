@@ -2,9 +2,6 @@ class{
 pavan
 prajwal
 chaitanya
-<<<<<<< HEAD
 Divya
-=======
 Yaswanth
->>>>>>> 5afc78c573642ea2be4db627ae92a9430db2674e
 }
