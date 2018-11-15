@@ -1,8 +1,2 @@
-class{
-pavan
-prajwal
-chaitanya
-Divya
-Yaswanth
-Kumar
+//working on modified feature 6
 }
